@@ -1,0 +1,12 @@
+# IDEs and Editors
+.idea/
+.vscode/
+*.iml
+
+# Gradle build outputs (temporary compiled files)
+.gradle/
+build/
+
+# Operating System files
+.DS_Store
+Thumbs.db
