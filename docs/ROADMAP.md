@@ -50,8 +50,8 @@ This roadmap defines the step-by-step milestones to build DevSync.
 ---
 
 ## Phase 0 Detailed Milestones (Active)
-- [] Step 0.1: Git initialization & shared documentation framework.
-- [ ] Step 0.2: Gradle build setup with Spring Boot 3 & Java 21 toolchain.
+- [x] Step 0.1: Git initialization & shared documentation framework.
+- [x] Step 0.2: Gradle build setup with Spring Boot 3 & Java 21 toolchain.
 - [x] Step 0.3: Docker Compose configuration for PostgreSQL 16.
 - [ ] Step 0.4: Spring Boot application startup & database smoke test.
 - [ ] Step 0.5: GitHub Actions CI workflow script.
